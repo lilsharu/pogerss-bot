@@ -1,0 +1,12 @@
+{
+  "name": "poggerss-bot",
+  "version": "0.0.1",
+  "description": "Poggers",
+  "main": "app.js",
+  "scripts": {},
+  "author": "Shourya Bansal",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
