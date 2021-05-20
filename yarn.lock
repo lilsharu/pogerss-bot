@@ -1729,6 +1729,7 @@ __metadata:
     express: ^4.17.1
     node-telegram-bot-api: ^0.53.0
     prettier: ^2.3.0
+    rescript: ^9.1.2
   languageName: unknown
   linkType: soft
 
@@ -1917,6 +1918,18 @@ __metadata:
   version: 2.0.2
   resolution: "require-from-string@npm:2.0.2"
   checksum: 74fc30353e5d526879b28d480c3f25ca95e9c22dfe7ac10ca0650e03407b3aeed352ff8ca706ea145617b6482a582e4a3bd65a884fc50133ebe586d47fa085c6
+  languageName: node
+  linkType: hard
+
+"rescript@npm:^9.1.2":
+  version: 9.1.2
+  resolution: "rescript@npm:9.1.2"
+  bin:
+    bsc: bsc
+    bsrefmt: bsrefmt
+    bstracing: lib/bstracing
+    rescript: rescript
+  checksum: 7a58099061d556f99934982980fe49bba7ea79bc9426b923ff0e422c26e950de5a120b5b7aa23856abf609531fa1f0ff6312dde19a7a4c04bc3ca04a28246ea1
   languageName: node
   linkType: hard
 

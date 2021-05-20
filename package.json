@@ -3,7 +3,10 @@
   "version": "0.0.1",
   "description": "Poggers",
   "main": "bot.js",
-  "scripts": {},
+  "scripts": {
+    "re:build": "rescript",
+    "re:start": "rescript build -w"
+  },
   "author": "Shourya Bansal",
   "license": "MIT",
   "dependencies": {
@@ -19,6 +22,7 @@
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
-    "prettier": "^2.3.0"
+    "prettier": "^2.3.0",
+    "rescript": "^9.1.2"
   }
 }
