@@ -9,3 +9,8 @@
 #/.pnp.*
 
 .env
+node_modules
+
+.bsb.lock
+.merlin
+lib/
